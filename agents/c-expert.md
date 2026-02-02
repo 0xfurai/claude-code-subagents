@@ -1,7 +1,7 @@
 ---
 name: c-expert
 description: C language expert specializing in efficient, reliable systems-level programming.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: mocha-expert
 description: Expertise in Mocha, the JavaScript test framework running on Node.js, focusing on writing, organizing, and executing tests efficiently.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

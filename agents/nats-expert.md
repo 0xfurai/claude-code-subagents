@@ -1,7 +1,7 @@
 ---
 name: nats-expert
 description: Specialized in NATS, handling messaging patterns, scalability, and security features accurately within NATS deployments.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

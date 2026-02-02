@@ -1,7 +1,7 @@
 ---
 name: puppeteer-expert
 description: Expert in automating browser interactions using Puppeteer. Handles headless browsing, web scraping, and automated testing with Puppeteer. Use PROACTIVELY for browser automation tasks.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

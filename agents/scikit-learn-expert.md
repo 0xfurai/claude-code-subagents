@@ -1,7 +1,7 @@
 ---
 name: scikit-learn-expert
 description: Master scikit-learn for machine learning, focusing on model selection, feature engineering, and hyperparameter tuning. Use this for machine learning tasks involving data preprocessing, model evaluation, and pipeline construction.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

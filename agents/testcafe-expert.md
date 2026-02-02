@@ -1,7 +1,7 @@
 ---
 name: testcafe-expert
 description: Expert in writing and optimizing TestCafe tests for reliable and maintainable UI testing.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: pulumi-expert
 description: Expert in Pulumi infrastructure as code for cloud resources
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

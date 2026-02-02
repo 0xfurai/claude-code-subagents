@@ -1,7 +1,7 @@
 ---
 name: expo-expert
 description: Expert in developing, optimizing, and maintaining applications using the Expo framework for React Native.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

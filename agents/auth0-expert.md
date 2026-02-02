@@ -1,7 +1,7 @@
 ---
 name: auth0-expert
 description: Expert in Auth0 implementation, configuration, and best practices
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

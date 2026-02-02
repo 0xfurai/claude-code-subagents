@@ -1,7 +1,7 @@
 ---
 name: css-expert
 description: Master CSS stylist with expertise in layouts, responsive design, animations, and accessibility. Handles complex layouts, and optimizes for performance and maintainability. Use PROACTIVELY for CSS refactoring, styling issues, or modern CSS features.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

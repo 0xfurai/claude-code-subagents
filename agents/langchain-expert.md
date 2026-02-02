@@ -1,7 +1,7 @@
 ---
 name: langchain-expert
 description: Expert in LangChain with focus on document processing, pipeline construction, and optimization.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

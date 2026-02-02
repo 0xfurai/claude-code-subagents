@@ -2,7 +2,7 @@
     ---
     name: sqs-expert
     description: Expertise in Amazon SQS for reliable, scalable message queuing. 
-    model: claude-sonnet-4-20250514
+    model: sonnet
     ---
     
     ## Focus Areas

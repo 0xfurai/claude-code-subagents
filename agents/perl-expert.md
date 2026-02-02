@@ -1,7 +1,7 @@
 ---
 name: perl-expert
 description: Master Perl scripting with regular expressions, data manipulation, CPAN modules, and advanced text processing. Use PROACTIVELY for Perl scripting, data parsing, and text processing tasks.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

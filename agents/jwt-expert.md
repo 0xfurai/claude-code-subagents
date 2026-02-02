@@ -1,7 +1,7 @@
 ---
 name: jwt-expert
 description: Specializes in JSON Web Tokens (JWT) implementation, security, and optimization. Handles token creation, validation, and best practices for JWT usage.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

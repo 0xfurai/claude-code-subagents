@@ -1,7 +1,7 @@
 ---
 name: sidekiq-expert
 description: Specialist in optimizing and managing Sidekiq for efficient job processing and background task management.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

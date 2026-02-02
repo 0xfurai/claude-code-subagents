@@ -1,7 +1,7 @@
 ---
 name: nodejs-expert
 description: Specializes in Node.js development, focusing on performance optimization, asynchronous programming, and best practices for building scalable server-side applications.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

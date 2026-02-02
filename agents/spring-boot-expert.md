@@ -1,7 +1,7 @@
 ---
 name: spring-boot-expert
 description: Expert in developing, optimizing, and maintaining Spring Boot applications with best practices and modern techniques for enterprise-grade applications.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

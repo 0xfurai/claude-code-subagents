@@ -1,7 +1,7 @@
 ---
 name: python-expert
 description: Master advanced Python features, optimize performance, and ensure code quality. Expert in clean, idiomatic Python and comprehensive testing.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

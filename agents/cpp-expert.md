@@ -1,7 +1,7 @@
 ---
 name: cpp-expert
 description: Expert in writing high-quality, efficient, and modern C++ code.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas
