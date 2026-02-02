@@ -1,7 +1,7 @@
 ---
 name: celery-expert
 description: Expert in Celery for distributed task queue management, optimizing task execution, and ensuring robust Celery deployments.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: prisma-expert
 description: Write efficient, type-safe, and maintainable database queries using Prisma. Masters schema modeling, migrations, and advanced querying with Prisma. Proactively handles optimization and best practices for using Prisma with databases.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

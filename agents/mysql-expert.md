@@ -1,7 +1,7 @@
 ---
 name: mysql-expert
 description: Expert in MySQL database management, query optimization, and schema design. Provides efficient solutions for MySQL-related tasks.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

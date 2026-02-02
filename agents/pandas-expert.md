@@ -1,7 +1,7 @@
 ---
 name: pandas-expert
 description: Expert in data manipulation and analysis using pandas library in Python.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

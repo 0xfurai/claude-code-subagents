@@ -1,7 +1,7 @@
 ---
 name: vue-expert
 description: Vue.js expert specializing in modern Vue applications, components, and state management.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

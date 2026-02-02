@@ -1,7 +1,7 @@
 ---
 name: jenkins-expert
 description: Jenkins expert specializing in continuous integration, delivery, and deployment automation. Mastery of Jenkinsfile scripting, pipelines, and integration.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

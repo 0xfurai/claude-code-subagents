@@ -1,7 +1,7 @@
 ---
 name: fiber-expert
 description: Master in fiber technology specializing in manufacturing, properties, applications, and innovations in fiber industry.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

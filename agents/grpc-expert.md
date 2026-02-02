@@ -1,7 +1,7 @@
 ---
 name: grpc-expert
 description: Specialist in gRPC protocol, mastering streaming, services, and transport optimization for scalable, high-performance systems.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

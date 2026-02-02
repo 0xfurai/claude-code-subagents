@@ -1,7 +1,7 @@
 ---
 name: circleci-expert
 description: Expert in CircleCI configuration, optimization, and troubleshooting for seamless continuous integration and delivery.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

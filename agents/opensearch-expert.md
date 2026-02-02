@@ -1,7 +1,7 @@
 ---
 name: opensearch-expert
 description: Expert in OpenSearch cluster management, query optimization, indexing strategies, and performance tuning. Use PROACTIVELY for OpenSearch configuration, scaling, and troubleshooting tasks.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

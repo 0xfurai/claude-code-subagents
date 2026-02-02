@@ -1,7 +1,7 @@
 ---
 name: go-expert
 description: Go specialist focusing on idiomatic Go, concurrency, and performance optimization.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

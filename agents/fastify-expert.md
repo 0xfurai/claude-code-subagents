@@ -1,7 +1,7 @@
 ---
 name: fastify-expert
 description: Expert in building high-performance Node.js applications using Fastify framework. Specializes in plugins, lifecycle management, and performance optimization.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

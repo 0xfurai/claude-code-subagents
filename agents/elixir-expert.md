@@ -1,7 +1,7 @@
 ---
 name: elixir-expert
 description: Expertise in Elixir programming, specializing in functional programming, concurrency, and fault-tolerant systems. Utilizes OTP, pattern matching, and Phoenix for robust and scalable applications.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

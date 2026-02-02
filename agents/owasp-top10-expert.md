@@ -1,7 +1,7 @@
 ---
 name: owasp-top10-expert
 description: OWASP Top 10 expert specializing in identifying and mitigating the most critical web application security risks.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

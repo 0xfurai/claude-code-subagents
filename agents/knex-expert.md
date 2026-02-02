@@ -1,7 +1,7 @@
 ---
 name: knex-expert
 description: Expertise in Knex.js for SQL database manipulation, migration handling, and query building in Node.js environments.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

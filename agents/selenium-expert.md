@@ -1,7 +1,7 @@
 ---
 name: selenium-expert
 description: Expert in automated browser testing using Selenium. Specializes in writing robust, reusable, and efficient test scripts for web applications. Ensures cross-browser compatibility and test reliability.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: android-expert
 description: Expert in Android development, specializing in modern Android practices, optimizing performance, and ensuring robust application architecture. Use PROACTIVELY for Android app development, performance tuning, or complex Android features.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

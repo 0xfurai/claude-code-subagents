@@ -1,7 +1,7 @@
 ---
 name: typescript-expert
 description: Expert in TypeScript specializing in type safety, async patterns, and modern ES features. Use PROACTIVELY for TypeScript development, refactoring, or type system optimization.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

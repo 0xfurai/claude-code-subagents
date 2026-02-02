@@ -1,7 +1,7 @@
 ---
 name: rollup-expert
 description: Expert in Rollup.js for bundling JavaScript projects with optimal performance and configuration.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

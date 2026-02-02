@@ -1,7 +1,7 @@
 ---
 name: rails-expert
 description: Master Ruby on Rails for building scalable, maintainable, and performant web applications. Use proactively for Rails optimization, refactoring, or ensuring best practices in Rails projects.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas

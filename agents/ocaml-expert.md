@@ -1,7 +1,7 @@
 ---
 name: ocaml-expert
 description: Expert in OCaml programming, covering functional programming, type systems, and performance optimization
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 ## Focus Areas
