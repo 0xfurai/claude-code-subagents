@@ -71,6 +71,7 @@ This repository contains 100+ specialized subagents that extend Claude Code's ca
 - **[electron-expert](agents/electron-expert.md)** - Electron development with cross-platform desktop apps
 - **[tauri-expert](agents/tauri-expert.md)** - Tauri development with Rust backend and web frontend
 - **[expo-expert](agents/expo-expert.md)** - Expo development with React Native and managed workflow
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Databases & Data Management
 - **[sql-expert](agents/sql-expert.md)** - SQL development with complex queries, optimization, and database design
