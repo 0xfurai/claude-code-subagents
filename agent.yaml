@@ -1,0 +1,36 @@
+spec_version: "0.1.0"
+name: claude-code-subagents
+version: 1.0.0
+description: >
+  A comprehensive collection of 138+ production-ready, domain-expert AI subagents
+  for Claude Code. Each subagent is an expert in a specific technology — from
+  programming languages (Python, Go, Rust, TypeScript) to databases, cloud
+  platforms, testing frameworks, DevOps tooling, and security. Agents are
+  automatically invoked by context or explicitly called, making Claude Code
+  behave like a full engineering team rather than a single generalist assistant.
+license: MIT
+model:
+  preferred: anthropic:claude-sonnet-4-20250514
+skills:
+  - name: bash-expert
+    description: Defensive Bash scripting for production automation and CI/CD pipelines
+  - name: python-expert
+    description: Advanced Python, async programming, type hints, and comprehensive testing
+  - name: typescript-expert
+    description: TypeScript with type safety, interfaces, and advanced type-level programming
+  - name: react-expert
+    description: React development with hooks, state management, and component architecture
+  - name: security-expert
+    description: Security auditing, vulnerability detection, and secure coding practices
+  - name: docker-expert
+    description: Containerisation, Docker Compose, and production container best practices
+  - name: postgres-expert
+    description: PostgreSQL advanced features, query optimisation, and indexing strategies
+  - name: github-actions-expert
+    description: CI/CD pipeline authoring, reusable workflows, and GitHub Actions security
+runtime:
+  max_turns: 50
+compliance:
+  risk_tier: standard
+  supervision:
+    human_in_the_loop: none
