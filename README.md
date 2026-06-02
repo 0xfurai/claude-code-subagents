@@ -147,6 +147,7 @@ This repository contains 100+ specialized subagents that extend Claude Code's ca
 - **[tensorflow-expert](agents/tensorflow-expert.md)** - TensorFlow development with deep learning and neural networks
 - **[pytorch-expert](agents/pytorch-expert.md)** - PyTorch development with deep learning and dynamic computation graphs
 - **[langchain-expert](agents/langchain-expert.md)** - LangChain development with LLM applications and RAG systems
+- **[ai-workflow-architect](agents/ai-workflow-architect.md)** - Production AI workflow design with handoff, system-of-record writes, evaluation metrics, and rollout governance
 
 ### Monitoring & Observability
 - **[prometheus-expert](agents/prometheus-expert.md)** - Prometheus development with metrics collection and monitoring
