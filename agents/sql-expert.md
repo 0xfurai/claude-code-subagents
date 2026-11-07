@@ -1,7 +1,7 @@
 ---
 name: sql-expert
 description: Master complex SQL queries, optimize execution plans, and ensure database integrity. Expert in index strategies, query optimization, and data modeling.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: neo4j-expert
 description: Expert in Neo4j graph database specializing in Cypher queries, graph modeling, and optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

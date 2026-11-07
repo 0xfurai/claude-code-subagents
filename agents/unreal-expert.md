@@ -1,7 +1,7 @@
 ---
 name: unreal-expert
 description: Expert in Unreal Engine C++ development, covering gameplay framework, rendering, Slate/UMG UI, and editor tooling. Use PROACTIVELY for Unreal Engine features, plugin development, or performance optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

@@ -1,7 +1,7 @@
 ---
 name: rabbitmq-expert
 description: Expert in RabbitMQ messaging, configuration, and optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

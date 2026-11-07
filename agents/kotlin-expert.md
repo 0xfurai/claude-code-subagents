@@ -1,7 +1,7 @@
 ---
 name: kotlin-expert
 description: Expert in Kotlin programming language, focusing on idiomatic Kotlin code, coroutines, extension functions, and memory management. 
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

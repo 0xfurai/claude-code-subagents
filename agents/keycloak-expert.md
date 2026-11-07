@@ -1,7 +1,7 @@
 ---
 name: keycloak-expert
 description: Keycloak specialist for identity and access management, realm configuration, and user federation.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

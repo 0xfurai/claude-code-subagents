@@ -1,7 +1,7 @@
 ---
 name: scala-expert
 description: Scala expert specializing in functional programming, type safety, and performance optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

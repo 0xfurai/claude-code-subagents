@@ -1,7 +1,7 @@
 ---
 name: qt-expert
 description: Expert in Qt and C++ development, covering Widgets, Qt Quick/QML, signals and slots, model/view, and cross-platform apps. Use PROACTIVELY for Qt UI development, threading, or performance optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

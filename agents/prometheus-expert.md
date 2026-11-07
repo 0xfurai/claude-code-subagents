@@ -1,7 +1,7 @@
 ---
 name: prometheus-expert
 description: Expert in Prometheus for monitoring, alerting, and performance optimization.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas
