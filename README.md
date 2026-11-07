@@ -71,6 +71,10 @@ This repository contains 100+ specialized subagents that extend Claude Code's ca
 - **[electron-expert](agents/electron-expert.md)** - Electron development with cross-platform desktop apps
 - **[tauri-expert](agents/tauri-expert.md)** - Tauri development with Rust backend and web frontend
 - **[expo-expert](agents/expo-expert.md)** - Expo development with React Native and managed workflow
+- **[qt-expert](agents/qt-expert.md)** - Qt development with Widgets, QML, signals/slots, and cross-platform C++ apps
+
+### Game Development
+- **[unreal-expert](agents/unreal-expert.md)** - Unreal Engine C++ development with gameplay framework, Slate/UMG UI, and editor tooling
 
 ### Databases & Data Management
 - **[sql-expert](agents/sql-expert.md)** - SQL development with complex queries, optimization, and database design
