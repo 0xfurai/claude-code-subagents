@@ -1,7 +1,7 @@
 ---
 name: webpack-expert
 description: Expert in Webpack configuration, optimization, and troubleshooting for efficient bundling and module loading.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

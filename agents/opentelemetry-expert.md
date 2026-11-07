@@ -1,7 +1,7 @@
 ---
 name: opentelemetry-expert
 description: Master in OpenTelemetry for observability, tracing, metrics, and logs.
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas

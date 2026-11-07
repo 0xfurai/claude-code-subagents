@@ -1,7 +1,7 @@
 ---
 name: actix-expert
 description: Expert in Actix for building high-performance web applications with Rust
-model: claude-sonnet-4-20250514
+model: claude-sonnet-5-5
 ---
 
 ## Focus Areas
